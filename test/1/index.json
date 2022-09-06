@@ -1,4 +1,6 @@
-{
-  "hello": "world",
-  "xin_chao": "viet nam"
-}
+[
+  {
+    "hello": "world 2",
+    "xin_chao": "viet nam 2"
+  }
+]
